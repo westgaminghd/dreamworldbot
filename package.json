@@ -1,0 +1,11 @@
+{
+  "name": "DreamWorld",
+  "version": "1.0.0",
+  "description": "DreamWorld BOT",
+  "main": "bot.js",
+  "author": "WestGamingHD",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
